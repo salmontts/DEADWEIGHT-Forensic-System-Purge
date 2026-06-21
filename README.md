@@ -84,10 +84,9 @@ NIEzaufane binarki z podejrzanych lokalizacji.
 
 ---
 
-## Znane ograniczenia (i czemu to ważne)
+## Znane ograniczenia
 
-Żadne narzędzie nie łapie wszystkiego. Świadomość własnych ślepych plam jest
-częścią rzetelnej analizy — oto granice DEADWEIGHT:
+Oto granice DEADWEIGHT:
 
 **1. Process injection (MITRE T1055) — najważniejsza ślepa plama.**
 Weryfikacja podpisu sprawdza **plik na dysku**. Nie wykrywa sytuacji, gdy obcy
@@ -107,9 +106,6 @@ nieweryfikowalne i, dla bezpieczeństwa, oszczędza znane nazwy systemowe.
 
 **4. WMI przez `wmic`.** Czyszczenie subskrypcji WMI używa deprecated `wmic`;
 na najnowszych Windows należy to przepisać na COM (w roadmapie).
-
-> Te ograniczenia są wpisane świadomie. Narzędzie, które udaje, że łapie
-> wszystko, jest groźniejsze niż takie, które zna swoje granice.
 
 ---
 
@@ -154,9 +150,8 @@ DriverStore — w teorii "agresywne czyszczenie", w praktyce **uszkodzenie
 instalacji Windows**. Raz po `--nuke` wystartowałem dualboota z Linuksa przed
 rebootem Windowsa i system się już nie podniósł.
 
-Refaktor świadomie to wyciął. Nuke nadal jest nukiem, ale celuje w
-**persistence i procesy**, a nie w bebechy systemu. To różnica między
-narzędziem, które *wygląda* groźnie, a takim, które wie, czego dotyka.
+Refaktor to wyciął. Nuke nadal jest nukiem, ale celuje w
+**persistence i procesy**, a nie w bebechy systemu.
 
 > Jeśli masz dualboot: po `--nuke` **zrebootuj Windows**, zanim odpalisz
 > inny system.
