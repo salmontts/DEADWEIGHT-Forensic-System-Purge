@@ -1,0 +1,13 @@
+﻿[2026-06-21 13:02:41] | [persistence] | Read-only analysis completed
+[2026-06-21 13:02:41] | [analyze] | Full read-only sweep completed
+[2026-06-21 13:15:42] | [persistence] | autorun HKCU Run | Opera Stable = "C:\Users\Sentio\AppData\Local\Programs\Opera\opera.exe" --autostart
+[2026-06-21 13:15:43] | [persistence] | autorun HKCU Run | Lunar Client = "C:\Users\Sentio\AppData\Local\Programs\Lunar Client\Lunar Client.exe" --hidden
+[2026-06-21 13:15:43] | [persistence] | autorun HKCU Run | Proton VPN = C:\Program Files\Proton\VPN\ProtonVPN.Launcher.exe "----ms-protocol:ms-encodedlaunch:App?ContractId=Windows.StartupTask&TaskId=Proton%20VPN"
+[2026-06-21 13:15:43] | [persistence] | [!] autorun UNSIGNED | HKLM Run | SecurityHealth = %windir%\system32\SecurityHealthSystray.exe
+[2026-06-21 13:15:44] | [persistence] | autorun HKLM Run | RtkAudUService = "C:\WINDOWS\System32\RtkAudUService64.exe" -background
+[2026-06-21 13:15:44] | [persistence] | autorun HKLM Run | Riot Vanguard = "C:\Program Files\Riot Vanguard\vgtray.exe"
+[2026-06-21 13:15:44] | [persistence] | [!] autorun UNSIGNED | HKLM Run | GoPro Webcam = C:\Program Files (x86)\GoPro\GoPro Webcam\GoPro Webcam.exe
+[2026-06-21 13:15:44] | [persistence] | autorun HKLM Run (Wow64) | SunJavaUpdateSched = "C:\Program Files (x86)\Common Files\Java\Java Update\jusched.exe"
+[2026-06-21 13:15:44] | [persistence] | autorun HKLM RunOnce | msedge_cleanup_{F3017226-FE2A-4295-8BDF-00C3A9A7E4C5} = "C:\Program Files (x86)\Microsoft\EdgeWebView\Application\149.0.4022.80\Installer\setup.exe" --msedgewebview --delete-old-versions --system-level --verbose-logging --on-logon
+[2026-06-21 13:15:46] | [persistence] | Read-only analysis completed
+[2026-06-21 13:15:46] | [analyze] | Full read-only sweep completed

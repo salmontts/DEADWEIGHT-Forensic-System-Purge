@@ -1,0 +1,202 @@
+﻿[2026-06-21 13:32:46] === NUKE START ===
+[2026-06-21 13:32:46] Removed autorun: [HKCU Run] Opera Stable
+[2026-06-21 13:32:46] Removed autorun: [HKCU Run] Lunar Client
+[2026-06-21 13:32:46] Removed autorun: [HKCU Run] Proton VPN
+[2026-06-21 13:32:46] Removed WMI subscription persistence (best-effort)
+[2026-06-21 13:32:46] Removed scheduled task: \NVIDIA App SelfUpdate_{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}
+[2026-06-21 13:32:46] Removed scheduled task: \OneDrive Per-Machine Standalone Update Task
+[2026-06-21 13:32:46] Removed scheduled task: \OneDrive Reporting Task-S-1-5-21-2254313712-3359239033-4289066039-1001
+[2026-06-21 13:32:46] Removed scheduled task: \OneDrive Startup Task-S-1-5-21-2254313712-3359239033-4289066039-1001
+[2026-06-21 13:32:46] Removed scheduled task: \Opera scheduled assistant Autoupdate 1764101564
+[2026-06-21 13:32:46] Removed scheduled task: \Opera scheduled assistant Autoupdate 1764101564
+[2026-06-21 13:32:46] Removed scheduled task: \Opera scheduled Autoupdate 1764101561
+[2026-06-21 13:32:46] Removed scheduled task: \Opera scheduled Autoupdate 1764101561
+[2026-06-21 13:32:48] Removed scheduled task: \Mozilla\Firefox Background Update S-1-5-21-2254313712-3359239033-4289066039-1001 308046B0AF4A39CB
+[2026-06-21 13:32:48] Removed scheduled task: \Mozilla\Firefox Default Browser Agent 308046B0AF4A39CB
+[2026-06-21 13:32:48] Removed scheduled task: \SoftLanding\S-1-5-21-2254313712-3359239033-4289066039-1001\SoftLandingCreativeManagementTask
+[2026-06-21 13:32:48] Removed scheduled task: \SoftLanding\S-1-5-21-2254313712-3359239033-4289066039-1001\SoftLandingCreativeManagementTask
+[2026-06-21 13:32:48] Removed scheduled task: \SoftLanding\S-1-5-21-2254313712-3359239033-4289066039-1001\SoftLandingCreativeManagementTask
+[2026-06-21 13:32:48] Persistence purge completed
+[2026-06-21 13:32:48] Cleared %TEMP%
+[2026-06-21 13:32:48] Cleared C:\WINDOWS\Temp
+[2026-06-21 13:32:48] Cleared C:\WINDOWS\Prefetch
+[2026-06-21 13:32:48] Cleared C:\WINDOWS\SoftwareDistribution\Download
+[2026-06-21 13:32:48] Cleared LocalAppData Temp
+[2026-06-21 13:32:48] Spared (critical, path unverified): smss.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): csrss.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): wininit.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): services.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): lsass.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): fontdrvhost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): csrss.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): winlogon.exe
+[2026-06-21 13:32:49] Spared (critical, path unverified): fontdrvhost.exe
+[2026-06-21 13:32:49] Killed: nvcontainer.exe
+[2026-06-21 13:32:49] Killed: sihost.exe
+[2026-06-21 13:32:49] Killed: taskhostw.exe
+[2026-06-21 13:32:49] Killed: ShellHost.exe
+[2026-06-21 13:32:49] Killed: CrossDeviceResume.exe
+[2026-06-21 13:32:49] Killed: SearchHost.exe
+[2026-06-21 13:32:49] Killed: StartMenuExperienceHost.exe
+[2026-06-21 13:32:49] Killed: WidgetBoard.exe
+[2026-06-21 13:32:49] Killed: RuntimeBroker.exe
+[2026-06-21 13:32:49] Killed: WidgetService.exe
+[2026-06-21 13:32:49] Killed: msedgewebview2.exe
+[2026-06-21 13:32:50] Killed: backgroundTaskHost.exe
+[2026-06-21 13:32:50] Killed: msedgewebview2.exe
+[2026-06-21 13:32:50] Killed: msedgewebview2.exe
+[2026-06-21 13:32:50] Killed: msedgewebview2.exe
+[2026-06-21 13:32:50] Killed: msedgewebview2.exe
+[2026-06-21 13:32:50] Killed: ctfmon.exe
+[2026-06-21 13:32:50] Killed: LockApp.exe
+[2026-06-21 13:32:50] Killed: MicrosoftStartFeedProvider.exe
+[2026-06-21 13:32:50] Killed: RuntimeBroker.exe
+[2026-06-21 13:32:50] Killed: RuntimeBroker.exe
+[2026-06-21 13:32:50] Killed: SpotifyLauncher.exe
+[2026-06-21 13:32:50] Killed: crashpad_handler.exe
+[2026-06-21 13:32:50] Killed: TextInputHost.exe
+[2026-06-21 13:32:50] Killed: SecurityHealthSystray.exe
+[2026-06-21 13:32:50] Killed: RtkAudUService64.exe
+[2026-06-21 13:32:50] Killed: Spotify.exe
+[2026-06-21 13:32:50] Killed: Spotify.exe
+[2026-06-21 13:32:50] Killed: Spotify.exe
+[2026-06-21 13:32:50] Killed: Spotify.exe
+[2026-06-21 13:32:50] Killed: Spotify.exe
+[2026-06-21 13:32:50] Killed: ShellExperienceHost.exe
+[2026-06-21 13:32:50] Killed: RuntimeBroker.exe
+[2026-06-21 13:32:50] Killed: OneDrive.Sync.Service.exe
+[2026-06-21 13:32:50] Killed: ApplicationFrameHost.exe
+[2026-06-21 13:32:50] Killed: SystemSettings.exe
+[2026-06-21 13:32:50] Killed: Code.exe
+[2026-06-21 13:32:50] Killed: Code.exe
+[2026-06-21 13:32:50] Killed: Code.exe
+[2026-06-21 13:32:50] Killed: Code.exe
+[2026-06-21 13:32:50] Killed: Code.exe
+[2026-06-21 13:32:50] Killed: Code.exe
+[2026-06-21 13:32:50] Killed: Code.exe
+[2026-06-21 13:32:50] Killed: cpptools.exe
+[2026-06-21 13:32:50] Killed: Code.exe
+[2026-06-21 13:32:50] Killed: claude.exe
+[2026-06-21 13:32:50] Killed: claude.exe
+[2026-06-21 13:32:50] Killed: claude.exe
+[2026-06-21 13:32:50] Killed: claude.exe
+[2026-06-21 13:32:50] Killed: claude.exe
+[2026-06-21 13:32:50] Killed: claude.exe
+[2026-06-21 13:32:50] Killed: claude.exe
+[2026-06-21 13:32:50] Killed: claude.exe
+[2026-06-21 13:32:50] Killed: claude.exe
+[2026-06-21 13:32:50] Killed: firefox.exe
+[2026-06-21 13:32:50] Killed: crashhelper.exe
+[2026-06-21 13:32:50] Killed: firefox.exe
+[2026-06-21 13:32:50] Killed: firefox.exe
+[2026-06-21 13:32:50] Killed: firefox.exe
+[2026-06-21 13:32:50] Killed: firefox.exe
+[2026-06-21 13:32:50] Killed: firefox.exe
+[2026-06-21 13:32:50] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:50] Killed: firefox.exe
+[2026-06-21 13:32:50] Killed: RuntimeBroker.exe
+[2026-06-21 13:32:50] Killed: firefox.exe
+[2026-06-21 13:32:50] Killed: claude.exe
+[2026-06-21 13:32:50] Killed: WindowsTerminal.exe
+[2026-06-21 13:32:50] Killed: firefox.exe
+[2026-06-21 13:32:50] Killed: Discord.exe
+[2026-06-21 13:32:50] Killed: Discord.exe
+[2026-06-21 13:32:50] Killed: Discord.exe
+[2026-06-21 13:32:51] Killed: Discord.exe
+[2026-06-21 13:32:51] Killed: Discord.exe
+[2026-06-21 13:32:51] Killed: Discord.exe
+[2026-06-21 13:32:51] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:51] Killed: cmd.exe
+[2026-06-21 13:32:51] Killed: conhost.exe
+[2026-06-21 13:32:51] Killed: notepad++.exe
+[2026-06-21 13:32:51] Killed: wslrelay.exe
+[2026-06-21 13:32:51] Killed: dllhost.exe
+[2026-06-21 13:32:51] Killed: dllhost.exe
+[2026-06-21 13:32:51] Killed: wslrelay.exe
+[2026-06-21 13:32:51] Killed: wslhost.exe
+[2026-06-21 13:32:51] Killed: msrdc.exe
+[2026-06-21 13:32:51] Killed: wslhost.exe
+[2026-06-21 13:32:51] Killed: mintty.exe
+[2026-06-21 13:32:51] Killed: conhost.exe
+[2026-06-21 13:32:51] Killed: bash.exe
+[2026-06-21 13:32:51] Killed: PhoneExperienceHost.exe
+[2026-06-21 13:32:51] Killed: Notepad.exe
+[2026-06-21 13:32:51] Killed: smartscreen.exe
+[2026-06-21 13:32:51] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:51] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:51] Spared (critical, path unverified): svchost.exe
+[2026-06-21 13:32:51] Killed: backgroundTaskHost.exe
+[2026-06-21 13:32:51] === NUKE END ===
